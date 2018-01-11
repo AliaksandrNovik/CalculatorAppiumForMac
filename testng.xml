@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "Calculator tests">
+    <test name="Calculator features">
+        <classes>
+            <class name = "runner.FeaturesRunner"></class>
+        </classes>
+    </test>
+</suite>
